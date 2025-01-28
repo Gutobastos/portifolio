@@ -1,7 +1,5 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
 *{
     margin: 0;
     padding: 0;
@@ -12,8 +10,8 @@ body{
     background-color: #000000;
     color: #F6F6F6;
 }
-strong {
-    color: #22D4FD;
+.paragrafo-destaque {
+    color: #7fff00;
 }
 .titulo-destaque{
     color: #22D4FD;
