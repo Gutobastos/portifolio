@@ -7,8 +7,11 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background-color: #000000;
+    background: linear-gradient( #000000, gray);
     color: #F6F6F6;
+}
+.imagem-trofeu {
+    align-position: center;
 }
 .paragrafo-destaque {
     color: #7fff00;
