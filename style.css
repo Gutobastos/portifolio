@@ -20,7 +20,7 @@ body{
     color: #22D4FD;
 }
 .apresentacao{
-    margin: 10% 0%;
+    margin: 0% 0%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -59,4 +59,8 @@ body{
 .foto-portifolio {
     width: 400px;
     height: 400px;
-}    
+}
+.footer {
+    font-family: "Montserrat", serif;
+    color: #7fff00 
+}
